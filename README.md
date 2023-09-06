@@ -55,6 +55,6 @@ OS
 Namp -sS -O 192.168.x.1/24
 Sudo nmap --script smb-os-discovery.nse IP
 Sudo nmap -sS -p 445 -A IP
-![image](https://github.com/owocowyyogurd/notes/assets/42451598/7b374a6b-78f5-46b7-845e-70cca52f3c18)
+
 
 
