@@ -54,7 +54,7 @@ HPing flood
 OS
 Namp -sS -O 192.168.x.1/24
 Sudo nmap --script smb-os-discovery.nse IP
-Sudo nmap -sS -p 445 -A IP
+Sudo nmap -sS -p 445 -A IP 
 
 
 
